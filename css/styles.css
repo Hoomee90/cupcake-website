@@ -1,0 +1,24 @@
+body {
+  background:#001582;
+  color: white;
+  font-family:'Courier New', Courier, monospace ;
+}
+
+.flashy {
+  color: #ff0000;
+  font: italic;
+}
+
+a {
+  color: #2ed73a;
+}
+
+.best{
+  font-weight: bolder;
+  text-shadow: 3px 2px 2px green;
+}
+
+img {
+  width: 500px;
+  height: 400px;
+}
